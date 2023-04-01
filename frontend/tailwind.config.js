@@ -4,8 +4,9 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
+        gloriaHallelujah: ['Gloria Hallelujah', 'sans-serif'],
         sans: ['Inter', 'sans-serif']
-      }
+      },
     },
   },
   plugins: [],
